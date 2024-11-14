@@ -28,7 +28,7 @@ body {
 .cabecalho {
     padding: 1rem;
     position: fixed;
-    width: 18%;
+    width: auto;
     background: #e8e5e480;
     border-radius: 5em;
     display: flex;
